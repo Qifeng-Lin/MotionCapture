@@ -7,10 +7,16 @@ The stimulation types include right/left turning and deceleration.
 A txt file including the frame, the stimulation type and the markers' positions will be saved once the program stops.
 
 # Python libraries needed:
+
 keyboard
+
 threading
+
 time
+
 vicon_dssdk 
+
 pyautogui
+
 random
 datetime 
